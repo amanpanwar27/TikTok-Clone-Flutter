@@ -22,7 +22,8 @@ class LoginScreen extends StatelessWidget {
             fontSize: 25,
             fontWeight: FontWeight.w700  
           ),),
-          const SizedBox(height: 25,)
+          const SizedBox(height: 25,),
+          
         ]),
       ),)
     );
